@@ -18,3 +18,6 @@ http://coolrom.com/roms/snes/46925/penis.php
 http://coolrom.com/dlpop.php?id={id}
 ###Example
 http://coolrom.com/dlpop.php?id=46925
+
+##Supported platform list
+http://coolrom.com/roms/
