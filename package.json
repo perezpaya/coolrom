@@ -26,6 +26,6 @@
     "cheerio": "~0.17.0"
   },
   "scripts": {
-    "test": "echo 'Disabled tests :(' && exit 0"
+    "test": "node test.js"
   }
 }
