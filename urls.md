@@ -21,3 +21,6 @@ http://coolrom.com/dlpop.php?id=46925
 
 ##Supported platform list
 http://coolrom.com/roms/
+
+##Get rooms by platform
+http://coolrom.com/roms/{platform}
