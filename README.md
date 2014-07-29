@@ -3,6 +3,8 @@ Coolrom
 
 Node.js coolrom.com webscrapper
 
+![NPM Download](https://nodei.co/npm/coolrom.png?downloads=true)
+
 `npm install coolrom`
 
 ## Easy to use. No moar
